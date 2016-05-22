@@ -8,7 +8,7 @@ This component allows to generate test code from a test description.
 You can install this component with composer.
 
 ```php
-composer require kassko-php/unit-tests-generator:master
+composer require 'kassko-php/component-member-accessor:master'
 ```
 
 ## Usage
