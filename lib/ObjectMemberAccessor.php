@@ -1,6 +1,6 @@
 <?php
 
-namespace Kassko\Component\MemberAccessor\ObjectMemberAccessor;
+namespace Kassko\Util\MemberAccessor\ObjectMemberAccessor;
 
 /**
  * Access to non public properties and methods.

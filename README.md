@@ -1,14 +1,14 @@
-Component MemberAccessor
+Library MemberAccessor
 ==================
 
-This component allows to generate test code from a test description.
+This library allows to generate test code from a test description.
 
 ## Installation
 
-You can install this component with composer.
+You can install this library with composer.
 
 ```php
-composer require 'kassko-php/component-member-accessor:master'
+composer require 'kassko-php/util-member-accessor:master'
 ```
 
 ## Usage
@@ -38,7 +38,7 @@ class SomeClass
 
 Accessing SomeClass members:
 ```php
-use Kassko\Component\MemberAccessor\ObjectMemberAccessor;
+use Kassko\Util\MemberAccessor\ObjectMemberAccessor;
 
 $someObject = new SomeClass;
 $accessor = new ObjectMemberAccessor;
