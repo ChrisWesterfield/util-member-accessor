@@ -8,7 +8,7 @@ This library allows to generate test code from a test description.
 You can install this library with composer.
 
 ```php
-composer require 'kassko-php/util-member-accessor:master'
+composer require 'kassko/util-member-accessor:master'
 ```
 
 ## Usage
