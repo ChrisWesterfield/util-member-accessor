@@ -4,13 +4,19 @@
     "keywords": [
         "accessor", "member", "private", "protected", "reflection"
     ],
-    "version": "1.0.2",
+    "version": "1.0.3",
+    "license": "mit",
     "require": {
-        "php": ">=5.6"
+        "php": ">=5.5"
     },
     "autoload": {
         "psr-4": {
             "Kassko\\Util\\MemberAccessor\\": "lib"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+          "release": "master-dev"
         }
     }
 }
