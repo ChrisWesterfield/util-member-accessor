@@ -4,7 +4,7 @@
     "keywords": [
         "accessor", "member", "private", "protected", "reflection"
     ],
-    "version": "1.0.1",
+    "version": "1.0.2",
     "require": {
         "php": ">=5.6"
     },
